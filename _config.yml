@@ -1,14 +1,14 @@
-name : Foundation5/github pages/Jykill starter
-brand : My Site
-description : This is the description of my site
+name : Michael Flores (floresam)'s blog
+brand : Michael Flores
+description : A blog where I often share thoughts resuting from work in the technology field
 keyword : 
-url : http://daigofuji.github.io/jekyll-foundation-5-starter/
-email : daigo@daigofujiwara.com
-twitter : DaigoFuji
-github : DaigoFuji
-author : Daigo Fujiwara
+url : http://floresam.github.io/blog/
+email : floresam@us.ibm.com.com
+twitter : floresam90
+github : floresam
+author : Michael Flores
 analytics : UA-8418273-8
-year : 2015
+year : 2017
 markdown : kramdown
 exclude :
   - node_modules
