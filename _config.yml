@@ -12,3 +12,5 @@ year : 2015
 markdown : kramdown
 exclude :
   - node_modules
+
+theme: jekyll-theme-time-machine
