@@ -12,5 +12,4 @@ year : 2017
 markdown : kramdown
 exclude :
   - node_modules
-
 theme: jekyll-theme-time-machine
